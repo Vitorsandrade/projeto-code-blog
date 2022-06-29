@@ -6,4 +6,5 @@ import com.spring.codeblog.model.Post;
 
 public interface CodeblogRepository  extends JpaRepository<Post, Long>{
 
+	
 }
